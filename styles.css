@@ -1,0 +1,59 @@
+body {
+    background-color: lightcyan;
+}
+
+    /* link */
+a {
+    color: rgb(7, 7, 107);
+    
+  }
+  /* mouse over link */
+a:hover {
+    color: green;
+  }
+.image {
+        width: 600px;
+        height: auto;
+}
+
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2 {
+    color: purple;
+}
+
+h4 {
+    color:rgb(30, 112, 41)
+}
+
+.steps {
+    font-family: "Courier New", monospace;
+    font-size: medium;
+}
+
+.ingredients-list{  
+    font-family:'Times New Roman', Times, serif;
+    background-color: lightpink;
+
+}
+
+.desc {
+    font-style: italic;
+    color: rgb(78, 69, 26);
+    
+}
+
+.food-pic {
+    border-style: double;
+    height: auto;
+    width: 150px;
+}
+
+#back {
+    display: block;
+    text-align: center;
+    color: rgb(17, 59, 136);
+}
